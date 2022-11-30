@@ -1,0 +1,6 @@
+Name list
+cse
+ece
+it
+csbs
+aiml
